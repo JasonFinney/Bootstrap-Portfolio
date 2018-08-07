@@ -225,3 +225,9 @@ footer{
     background-color: #666666;
     text-align: center;
 }
+
+#crystal-collector{
+  background-image: url(mine.jpg);
+  height: 250px;
+  width: 250px;
+}
